@@ -14,7 +14,7 @@ response = client.models.generate_content(
     model="gemini-3.6-flash",
     contents="what is artifical intelligent.",
     config=types.GenerateContentConfig(
-        system_instruction="You are a concise programming assistant."
+    system_instruction="You are a concise programming assistant."
     )
 )
 
