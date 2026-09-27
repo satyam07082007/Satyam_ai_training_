@@ -20,4 +20,4 @@ response = client.models.generate_content(
 
 print("\n--- AI Response ---")
 print(response.text)
-print("-------------------")
+print("-------------------")c:\Users\LENOVO\Desktop\openai-api-lab\.env
